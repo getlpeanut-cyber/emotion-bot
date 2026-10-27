@@ -13,7 +13,7 @@
 
 ## 📖 项目简介
 **Emotion-Bot** 是一个软硬全栈自研的桌面小机器人。它拥有一块 1.85 寸的圆形屏幕（ST77916 驱动），能显示基于 LVGL 8.4 的生动动态表情；内置 ASRPRO 离线语音识别模块，无需联网即可通过语音指令切换表情；同时，ESP32-S3 模拟 USB HID 设备，可通过语音直接反向控制电脑（网易云播放/暂停、系统静音、截图等）。
-
+演示视频：https://www.bilibili.com/video/BV1H9xM68E49/?spm_id_from=333.1387.homepage.video_card.click&vd_source=84def0de4bb5678fbc35bdef742d9e0a
 
 ---
 
