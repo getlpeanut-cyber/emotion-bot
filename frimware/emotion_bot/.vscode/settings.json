@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "u8g2port.h": "c",
+        "string_view": "cpp",
+        "numeric": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "*.inc": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/86188/Desktop/esp32/程序（test）/2.ESP32_Timer/.pio/libdeps/esp32dev/Adafruit BusIO"
+}
